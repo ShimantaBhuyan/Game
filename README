@@ -1,0 +1,5 @@
+1. This is a text-based Role Playing Game(RPG).
+2. First run the main.py file in your terminal 
+	$ python3.6  main.py
+3. You will get instructions to go through the game.
+4. Type help in the beginning to know about the actions you can perform.
